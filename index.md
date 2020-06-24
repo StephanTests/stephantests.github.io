@@ -7,3 +7,5 @@ Aber wenigstens ist er sehr emmissionsarm, da er nicht selbst leuchtet, sondern 
 * Asteroidenakne
 * nachhaltig
 * nachtaktiv
+
+> Der Mond ist eine Scheibe
