@@ -9,3 +9,5 @@ Aber wenigstens ist er sehr emmissionsarm, da er nicht selbst leuchtet, sondern 
 * nachtaktiv
 
 > Der Mond ist eine Scheibe
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Full_Moon_Luc_Viatour.jpg"/>
